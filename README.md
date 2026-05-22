@@ -43,7 +43,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  /> -->
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
 </div>
