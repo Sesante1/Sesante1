@@ -35,16 +35,12 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="15" />
-  <!-- <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  /> -->
-  <!-- <img width="15" /> -->
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
 </div>
 
@@ -67,5 +63,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="73" height="61" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sesante1/Sesante1/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sesante1/Sesante1/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sesante1/Sesante1/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ###
