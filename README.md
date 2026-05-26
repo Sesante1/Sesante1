@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">Hello! I’m a Frontend Developer who enjoys creating clean and simple web interfaces.<br>I’m passionate about learning frontend technologies and building real projects to improve my skills.</p>
+<p align="left">╭─ ❖<br>│ 🐛 Professional bug creator since day one<br>│ ⚡ Writing code and questioning everything<br>│ 😴 Full-time overthinker, part-time developer<br>│ 🎯 Goal: move somewhere cold ❄<br>│ ♟ And... I play chess<br>╰───────────❖</p>
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -67,9 +67,9 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sesante1/Sesante1/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sesante1/Sesante1/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sesante1/Sesante1/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
